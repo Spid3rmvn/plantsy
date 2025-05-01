@@ -1,0 +1,64 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Aloe Vera",
+      "image": "https://picsum.photos/id/152/300/300",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "ZZ Plant",
+      "image": "https://picsum.photos/id/143/300/300",
+      "price": 25.98
+    },
+    {
+      "id": 3,
+      "name": "Monstera Deliciosa",
+      "image": "https://picsum.photos/id/248/300/300",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "name": "Snake Plant",
+      "image": "https://picsum.photos/id/106/300/300",
+      "price": 18.5
+    },
+    {
+      "id": 5,
+      "name": "Fiddle Leaf Fig",
+      "image": "https://picsum.photos/id/116/300/300",
+      "price": 45.99
+    },
+    {
+      "id": 6,
+      "name": "Pothos",
+      "image": "https://picsum.photos/id/119/300/300",
+      "price": 12.99
+    },
+    {
+      "id": 7,
+      "name": "Peace Lily",
+      "image": "https://picsum.photos/id/128/300/300",
+      "price": 22.5
+    },
+    {
+      "id": 8,
+      "name": "Rubber Plant",
+      "image": "https://picsum.photos/id/130/300/300",
+      "price": 27.99
+    },
+    {
+      "id": 9,
+      "name": "Spider Plant",
+      "image": "https://picsum.photos/id/144/300/300",
+      "price": 14.95
+    },
+    {
+      "id": 10,
+      "name": "Boston Fern",
+      "image": "https://picsum.photos/id/145/300/300",
+      "price": 19.99
+    }
+  ]
+}
